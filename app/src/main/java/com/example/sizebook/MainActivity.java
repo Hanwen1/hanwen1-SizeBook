@@ -28,7 +28,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 
 /**
- *  This class is the main view class of the project.
+ *  This class is the main view class of the assignment.
  *  All files are in the form of "json" files that are stored in Emulator's accessiable from Andriod Device moni
  *  This file name is indicated in the &nbsp &nbsp &nbsp FILENAME constant.
  *  It can shows the lists of records and the number of records.
