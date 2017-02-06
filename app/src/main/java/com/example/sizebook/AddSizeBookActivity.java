@@ -29,7 +29,7 @@ import java.util.ArrayList;
 
 
 /**
- *  This class is the add view class of the project.
+ *  This class is the add view class of the assignment.
  *  It can add a new record.
  *  When click sva button, it saves this new record and back to MainActivity.
  *
