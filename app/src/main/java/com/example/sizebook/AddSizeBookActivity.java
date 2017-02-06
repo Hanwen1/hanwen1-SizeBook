@@ -27,6 +27,18 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 
+
+/**
+ *  This class is the add view class of the project.
+ *  It can add a new record.
+ *  When click sva button, it saves this new record and back to MainActivity.
+ *
+ *  @auther hanwen
+ *
+ *
+ */
+
+
 public class AddSizeBookActivity extends AppCompatActivity {
 
     /**
