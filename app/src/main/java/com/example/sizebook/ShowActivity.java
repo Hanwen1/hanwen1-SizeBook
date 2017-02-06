@@ -29,6 +29,17 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 
+/**
+ *  This class is the view/edit/delete class of this assignment.
+ *  It can shows the details of a record and can be edited and deleted it.
+ *  When click save changes button, it saves the changes and back to the MainActivity.
+ *  When click delete button, it delete this record and back to the MainActivity.
+ *
+ *  @auther hanwen
+ *
+ *
+ */
+
 public class ShowActivity extends AppCompatActivity {
 
     /**
