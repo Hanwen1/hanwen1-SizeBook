@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hanwen1-SizeBook</string>
+    <string name="title_activity_add_size_book">AddSizeBookActivity</string>
+</resources>
